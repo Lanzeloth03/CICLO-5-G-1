@@ -23,12 +23,12 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo" options="-parameters" />
-      <module name="ms-catalogo" options="" />
-      <module name="ms-cliente" options="" />
+      <module name="ms-catalogo" options="-parameters" />
+      <module name="ms-cliente" options="-parameters" />
       <module name="ms-cliente1 (1)" options="-parameters" />
-      <module name="ms-config-server" options="" />
+      <module name="ms-config-server" options="-parameters" />
       <module name="ms-gateway-service" options="" />
-      <module name="ms-pedido-service" options="" />
+      <module name="ms-pedido-service" options="-parameters" />
       <module name="ms-registry-server" options="" />
     </option>
   </component>

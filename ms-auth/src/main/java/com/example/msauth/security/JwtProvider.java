@@ -1,4 +1,5 @@
 package com.example.msauth.security;
+
 import com.example.msauth.entity.AuthUser;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
@@ -9,13 +10,10 @@ import java.util.Base64;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
-
 @Component
 public class JwtProvider    {
     @Value("${jwt.secret}")
     private String secret;
-
-
     @PostConstruct
     protected void init() {
         secret = Base64.getEncoder().encodeToString(secret.getBytes());
