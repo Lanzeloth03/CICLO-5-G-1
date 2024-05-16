@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75c31993-de7b-4a6a-a2b8-f68881fe992f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ms-auth-service.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-auth/src/main/java/com/example/msauth/controller/AuthUserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-auth/src/main/java/com/example/msauth/dto/AuthUserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-auth/src/main/java/com/example/msauth/entity/AuthUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-auth/src/main/java/com/example/msauth/entity/TokenDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-auth/src/main/java/com/example/msauth/repository/AuthUserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-auth/src/main/java/com/example/msauth/security/JwtProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-auth/src/main/java/com/example/msauth/security/PasswordEncoderConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-auth/src/main/java/com/example/msauth/service/AuthUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ms-auth/src/main/java/com/example/msauth/service/impl/AuthUserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="75c31993-de7b-4a6a-a2b8-f68881fe992f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +63,7 @@
       <workItem from="1715264790948" duration="1107000" />
       <workItem from="1715270238341" duration="2556000" />
       <workItem from="1715866200776" duration="546000" />
-      <workItem from="1715867684607" duration="1477000" />
+      <workItem from="1715867684607" duration="1784000" />
     </task>
     <servers />
   </component>
