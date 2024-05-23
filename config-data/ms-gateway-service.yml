@@ -12,6 +12,8 @@ eureka:
     instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
 
 
+
+
 spring:
   cloud:
     gateway:
@@ -33,7 +35,9 @@ spring:
           uri: lb://ms-pedido-service
           predicates:
             - Path=/pedido/**
+
         - id: ms-auth-service
           uri: lb://ms-auth-service
           predicates:
             - Path=/auth/**
+
