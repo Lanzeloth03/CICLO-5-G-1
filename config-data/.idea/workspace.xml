@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75c31993-de7b-4a6a-a2b8-f68881fe992f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ms-gateway-service/src/main/java/com/example/msgatewayservice/config/AuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-gateway-service/src/main/java/com/example/msgatewayservice/config/WebClientConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ms-gateway-service/src/main/java/com/example/msgatewayservice/dto/TokenDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objetos/src/main/java/com/example/objetos/controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objetos/src/main/java/com/example/objetos/personaDto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-gateway-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-service/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +74,7 @@
       <workItem from="1715270238341" duration="2556000" />
       <workItem from="1715866200776" duration="546000" />
       <workItem from="1715867684607" duration="2105000" />
+      <workItem from="1716472304563" duration="810000" />
     </task>
     <servers />
   </component>
