@@ -7,6 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class ProductoServiceImpl implements ProductoService {
@@ -24,12 +25,12 @@ public class ProductoServiceImpl implements ProductoService {
     }
 
     @Override
-    public Producto buscarPorId(Integer id) {
-        return productoRepository.findById(id).get();
+    public Optional<Producto> buscarPorId(Integer id) {
+        return productoRepository.findById(id);
     }
 
     @Override
-    public Producto editar(Producto producto) {
+    public Producto actualizar(Producto producto) {
         return productoRepository.save(producto);
     }
 

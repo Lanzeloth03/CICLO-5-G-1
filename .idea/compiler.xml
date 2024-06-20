@@ -27,7 +27,7 @@
       <module name="ms-cliente" options="-parameters" />
       <module name="ms-cliente1 (1)" options="-parameters" />
       <module name="ms-config-server" options="-parameters" />
-      <module name="ms-gateway-service" options="" />
+      <module name="ms-gateway-service" options="-parameters" />
       <module name="ms-pedido-service" options="-parameters" />
       <module name="ms-registry-server" options="" />
     </option>

@@ -25,21 +25,19 @@ public class ProductoController {
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<Producto> buscarPorId(@PathVariable(required = true) Integer id) {
-        return ResponseEntity.ok(productoService.buscarPorId(id));
+    public ResponseEntity<Producto> buscarPOrId(@PathVariable(required = true) Integer id) {
+        return ResponseEntity.ok(productoService.buscarPorId(id).get());
     }
 
-    @PutMapping("/{id}")
-    public ResponseEntity<Producto> editar(@PathVariable(required = true) Integer id,
-                                           @RequestBody Producto producto) {
-        producto.setId(id);
-        return ResponseEntity.ok(productoService.editar(producto));
+    @PutMapping
+    public ResponseEntity<Producto> actualizar(@RequestBody Producto producto) {
+        return ResponseEntity.ok(productoService.actualizar(producto));
 
     }
 
     @DeleteMapping("/{id}")
-    public String eliminar(@PathVariable(required = true) Integer id) {
+    public ResponseEntity<List<Producto>> eliminar(@PathVariable(required = true) Integer id) {
         productoService.eliminar(id);
-        return "Eliminacion correcta";
+        return ResponseEntity.ok(productoService.listar());
     }
 }
