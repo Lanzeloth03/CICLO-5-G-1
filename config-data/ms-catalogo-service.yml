@@ -1,6 +1,7 @@
 server:
-  #port: 8085
+  #port: 8081
   port: ${PORT:${SERVER_PORT:0}}
+
 springdoc:
   api-docs:
     enabled: true
@@ -17,10 +18,10 @@ spring:
     url: jdbc:mysql://localhost:3306/ms_catalogo
     username: root
     password:
-
 eureka:
   client:
     serviceUrl:
+      #defaultZone: http://localhost:8090/eureka
       defaultZone: ${EUREKA_URI:http://localhost:8090/eureka}
   instance:
     #hostname: localhost

@@ -15,10 +15,10 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 public class UserExcelExporter {
     private XSSFWorkbook workbook;
     private XSSFSheet sheet;
-    private List<Categoria> listUsers;
+        private List<Categoria> listUsers;
 
     public UserExcelExporter(List<Categoria> categorias)
-    {
+            {
         this.listUsers = categorias;
         workbook = new XSSFWorkbook();
     }

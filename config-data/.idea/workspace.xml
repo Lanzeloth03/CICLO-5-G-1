@@ -5,8 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75c31993-de7b-4a6a-a2b8-f68881fe992f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_vin" beforeDir="false" afterPath="$PROJECT_DIR$/../app_vin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-catalogo-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-catalogo-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-cliente-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-cliente-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ms-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-gateway-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-pedido-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-pedido-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-auth/src/main/java/com/example/msauth/repository/AuthUserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-auth/src/main/java/com/example/msauth/repository/AuthUserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/MsCatalogoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/MsCatalogoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/controller/CategoriaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/controller/CategoriaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/controller/ProductoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/controller/ProductoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/entity/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/entity/Categoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/entity/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/entity/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/repository/CategoriaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/repository/CategoriaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/repository/ProductoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/repository/ProductoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/service/CategoriaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/service/CategoriaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/service/ProductoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/service/ProductoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/service/impl/CategoriaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/service/impl/CategoriaServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/service/impl/ProductoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/service/impl/ProductoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/util/PdfUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/util/PdfUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/util/UserExcelExporter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/java/com/example/mscatalogo/util/UserExcelExporter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-cliente/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-cliente/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/MsClienteApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/MsClienteApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/controller/ClienteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/controller/ClienteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/entity/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/entity/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/repository/ClienteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/repository/ClienteRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/service/ClienteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/service/ClienteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/service/impl/ClienteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-cliente/src/main/java/com/example/mscliente/service/impl/ClienteServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-cliente/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-cliente/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-cliente/src/test/java/com/example/mscliente/MsClienteApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-cliente/src/test/java/com/example/mscliente/MsClienteApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-service/src/main/java/com/example/msgatewayservice/MsGatewayServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-service/src/main/java/com/example/msgatewayservice/MsGatewayServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-service/src/main/java/com/example/msgatewayservice/config/AuthFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-service/src/main/java/com/example/msgatewayservice/config/AuthFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-service/src/main/java/com/example/msgatewayservice/dto/TokenDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-service/src/main/java/com/example/msgatewayservice/dto/TokenDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-gateway-service/src/test/java/com/example/msgatewayservice/MsGatewayServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-gateway-service/src/test/java/com/example/msgatewayservice/MsGatewayServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/MsPedidoServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/MsPedidoServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/controller/PedidoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/controller/PedidoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/dto/ClienteDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/dto/ClienteDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/dto/ProductoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/dto/ProductoDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/entity/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/entity/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/entity/PedidoDetalle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/entity/PedidoDetalle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/feign/ClienteFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/feign/ClienteFeign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/feign/ProductoFeign.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/feign/ProductoFeign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/service/PedidoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/service/PedidoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/service/impl/PedidoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/java/com/example/mspedidoservice/service/impl/PedidoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-pedido-service/src/test/java/com/example/mspedidoservice/MsPedidoServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-pedido-service/src/test/java/com/example/mspedidoservice/MsPedidoServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-registry-server/src/main/java/com/example/msregistryserver/MsRegistryServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-registry-server/src/main/java/com/example/msregistryserver/MsRegistryServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ms-registry-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-registry-server/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +113,7 @@
       <workItem from="1712245396874" duration="21000" />
       <workItem from="1712245604442" duration="23000" />
       <workItem from="1712245635737" duration="12000" />
-      <workItem from="1718894249547" duration="2829000" />
+      <workItem from="1718894249547" duration="3097000" />
     </task>
     <servers />
   </component>

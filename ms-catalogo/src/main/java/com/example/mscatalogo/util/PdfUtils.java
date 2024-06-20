@@ -17,7 +17,7 @@ public class PdfUtils {
         PdfWriter.getInstance(document, outputStream);
         document.open();
         // Write column names
-        // Map<String, Object> firstRow = queryResults.get(0);
+       // Map<String, Object> firstRow = queryResults.get(0);
         for (Categoria categoria : categorias) {
             Font boldFont = new Font(Font.FontFamily.HELVETICA, 12, Font.BOLD);
             Paragraph paragraph = new Paragraph(categoria.getNombre(), boldFont);
